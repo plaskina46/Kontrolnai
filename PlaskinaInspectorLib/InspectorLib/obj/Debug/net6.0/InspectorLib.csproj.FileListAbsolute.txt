@@ -1,0 +1,12 @@
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\bin\Debug\net6.0\InspectorLib.deps.json
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\bin\Debug\net6.0\InspectorLib.dll
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\bin\Debug\net6.0\ref\InspectorLib.dll
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\bin\Debug\net6.0\InspectorLib.pdb
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.AssemblyInfo.cs
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.dll
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\ref\InspectorLib.dll
+C:\Users\Ann\source\repos\PlaskinaInspectorLib\InspectorLib\obj\Debug\net6.0\InspectorLib.pdb
